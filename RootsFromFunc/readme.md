@@ -1,2 +1,2 @@
 # Calculate Roots From Funcs
-Change funcs at "def x()"
+Change funcs at "def f(x)"
